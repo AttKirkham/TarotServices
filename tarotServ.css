@@ -1,0 +1,69 @@
+
+#htitle {
+  float:left;
+  margin-left: 15px;
+  font-family: Georgia;
+  font-size:20px;
+  color:gold;
+  font-weight:bold;
+  text-shadow: 1.5px 1.5px 2px grey;
+}
+
+#nav-bar {
+  font-family:verdana;
+  right: 1vw;
+  position: absolute;
+  list-style: none;
+  position: fixed;
+  color: gold;
+  background-color: black;
+  border: 2px solid gold;
+  float: right;
+  font-weight:bold;
+}
+
+#header {
+  position: fixed;
+}
+
+#services {
+}
+
+#header-img {
+  align: left;
+  float: left;
+}
+
+#nav-bar li {
+  display: inline;
+  padding: 2vw;
+  color: gold;
+  text-shadow: 1px 1px 2px gold;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: gold;
+}
+
+#form {
+  align:center;
+}
+
+body {
+  background-image: radial-gradient(black, purple, purple);
+}
+
+h2 {
+  color:gold;
+  text-shadow: 1.5px 1.5px 2px grey;
+}
+
+p {
+  color:white;
+  font-family:arial;
+  white-space: nowrap;
+  align:center;
+  text-align:center;
+  text-shadow: 1.5px 1.5px 2px black;
+}
